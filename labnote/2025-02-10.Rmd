@@ -1,10 +1,10 @@
 ---
-output: psyinfr::render_elnjp_pdf(Rmd_file = '2025-02-07.Rmd')
+output: psyinfr::render_elnjp_pdf(Rmd_file = '2025-02-10.Rmd')
 ---
 
 ```{r include=FALSE}
-date_research <- '2025-02-07'
-date_write <- '2025-02-07'
+date_research <- '2025-02-10'
+date_write <- '2025-02-10'
 ```
 
 # `r sprintf('%s',date_research)`のラボノート
@@ -35,8 +35,8 @@ date_write <- '2025-02-07'
 
 ## 実施した内容
 
-.展望論文改稿
-・統計実習
+本日行ったことを第３者が読んでもわかるように書きます（何を，なぜ，どのように，必要なら時刻も書きます）。実際の実験だけでなく，考えたことやアイディア，調べてみたこと（論文のまとめとかも等）もどんどん書いていきます。
+
 
 ## 得られた結果
 
